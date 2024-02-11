@@ -1,0 +1,5 @@
+C:\Users\Comp\source\repos\DAY32.Task\DAY32.Task\obj\Debug\netcoreapp3.1\DAY32.Task.csproj.AssemblyReference.cache
+C:\Users\Comp\source\repos\DAY32.Task\DAY32.Task\obj\Debug\netcoreapp3.1\DAY32.Task.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Comp\source\repos\DAY32.Task\DAY32.Task\obj\Debug\netcoreapp3.1\DAY32.Task.AssemblyInfoInputs.cache
+C:\Users\Comp\source\repos\DAY32.Task\DAY32.Task\obj\Debug\netcoreapp3.1\DAY32.Task.AssemblyInfo.cs
+C:\Users\Comp\source\repos\DAY32.Task\DAY32.Task\obj\Debug\netcoreapp3.1\DAY32.Task.csproj.CoreCompileInputs.cache

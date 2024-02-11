@@ -1,0 +1,14 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>netcoreapp3.1</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <Reference Include="DAY19.Task">
+      <HintPath>..\..\DAY19.Task\DAY19.Task\bin\Debug\netcoreapp3.1\DAY19.Task.dll</HintPath>
+    </Reference>
+  </ItemGroup>
+
+</Project>
